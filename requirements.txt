@@ -1,5 +1,0 @@
-discord.py
-flask
-pillow
-nest_asyncio
-gunicorn
